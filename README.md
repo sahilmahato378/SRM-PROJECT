@@ -25,30 +25,20 @@ The system is designed to simplify communication between organizations and suppl
 
 ## 📸 Screenshots
 
-### 🏠 Landing Page
+## 📸 Screenshots
 
-![Landing Page](docs/screenshots/landing-page.png)
-
-### 🔐 Supplier Login
-
-![Supplier Login](docs/screenshots/supplier-login-page.png)
-
-### 🏭 Supplier Dashboard
-
-![Supplier Dashboard](docs/screenshots/supplier-dashboard.png)
-
-### 📋 RFQ Management
-
-![RFQ Management](docs/screenshots/RFQ-page.png)
-
-### 💰 Bidding Page
-
-![Bidding Page](docs/screenshots/bidding-page.png)
-
-### 📦 Receipts & Reviews
-
-![Receipt Page](docs/screenshots/receipt-page.png)
-
+<table>
+  <tr>
+    <td><img src="docs/screenshots/landing-page.png" width="300"></td>
+    <td><img src="docs/screenshots/supplier-login-page.png" width="300"></td>
+    <td><img src="docs/screenshots/supplier-dashboard.png" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/RFQ-page.png" width="300"></td>
+    <td><img src="docs/screenshots/bidding-page.png" width="300"></td>
+    <td><img src="docs/screenshots/receipt-page.png" width="300"></td>
+  </tr>
+</table>
 ## 🛠️ Tech Stack
 
 ### Frontend
