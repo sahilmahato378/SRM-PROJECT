@@ -23,6 +23,32 @@ The system is designed to simplify communication between organizations and suppl
 - 📋 Order history and tracking
 - 👤 Supplier profile management
 
+## 📸 Screenshots
+
+### 🏠 Landing Page
+
+![Landing Page](docs/screenshots/landing-page.png)
+
+### 🔐 Supplier Login
+
+![Supplier Login](docs/screenshots/supplier-login-page.png)
+
+### 🏭 Supplier Dashboard
+
+![Supplier Dashboard](docs/screenshots/supplier-dashboard.png)
+
+### 📋 RFQ Management
+
+![RFQ Management](docs/screenshots/RFQ-page.png)
+
+### 💰 Bidding Page
+
+![Bidding Page](docs/screenshots/bidding-page.png)
+
+### 📦 Receipts & Reviews
+
+![Receipt Page](docs/screenshots/receipt-page.png)
+
 ## 🛠️ Tech Stack
 
 ### Frontend
