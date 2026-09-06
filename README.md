@@ -25,8 +25,6 @@ The system is designed to simplify communication between organizations and suppl
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 <table>
   <tr>
     <td><img src="docs/screenshots/landing-page.png" width="300"></td>
