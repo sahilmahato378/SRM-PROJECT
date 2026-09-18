@@ -9,6 +9,7 @@ function db_config(): array
         'user' => getenv('DB_USER') ?: 'root',
         'pass' => getenv('DB_PASS') ?: '',
         'name' => getenv('DB_NAME') ?: 'srm_portal',
+        'port' => getenv('DB_PORT') ?: '3307',
     ];
 }
 
@@ -19,8 +20,8 @@ function db_connection(): mysqli
         $config['host'],
         $config['user'],
         $config['pass'],
-        $config['name'],
-        3307
+       $config['name'],
+(int)$config['port']
     );
 
     if ($connection->connect_error) {
